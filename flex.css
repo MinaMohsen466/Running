@@ -180,10 +180,10 @@ height: 100%;
 }
 @media (max-width: 250px) {
     body{
-        font-size: 1.7px;
+        font-size: 1.6px;
     }
     .first{
-        background-size: 100% 25%;
+        background-size: 100% 45%;
     }
     .nav{
         width: 90%;
@@ -204,7 +204,7 @@ height: 100%;
         font-size: 2px;
     }
     .first{
-        background-size: 100% 25%;
+        background-size: 100% 45%;
     }
     .nav{
         width: 90%;
@@ -225,7 +225,7 @@ height: 100%;
         font-size: 3.7px;
     }
     .first{
-        background-size: 100% 50%;
+        background-size: 100% 60%;
     }
     .logo{
         display: none;
@@ -258,7 +258,7 @@ height: 100%;
         font-size: 6.5px;
     }
     .first{
-        background-size: 100% 55%;
+        background-size: 100% 100%;
     }
     .nav{
         width: 90%;
@@ -270,7 +270,7 @@ height: 100%;
         font-size: 8px;
     }
     .first{
-        background-size: 100% 55%;
+        background-size: 100% 100%;
     }
     .nav{
         width: 90%;
